@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  TMDB-SwiftUI
+
+  Created by Marcylene Barreto on 29/04/22.
+  
+*/
+
+// Label`s
+"labelTitleSignIn" = "Welcome back";
+"registerLabel" = "Sign Up";
+"overviewLabel" = "Overview";
+"dateDetailsKey" = "Release date";
+"ratingDetailsKey" = "Rating";
+"keySalutationUser" = "Hi";
+"favoritesQuantityKey" = "Favorites";
+
+//Button`s
+"buttonSignIn" = "Entry";
+"btnSaveRegister" = "Register";
+"createAccount" = "Create new account";
+"btnLogout" = "Logout";
+
+// TextFields
+"placePassword" = "Password";
+"placeUsername" = "Username";
+"usernameRegister" = "Username";
+"emailRegisterPlaceholder" = "E-mail";
+"placeholderPassword" = "Password";
+"repeatPlaceholderPassword" = "Repeat your password";
+
+// Search
+"searchKeyText" = "Search Movie";
+"searchTabkey" = "Search";
+
+// Navigation Title
+"titleFavoriteKey" = "Favorite";
+"titleMoviesKey" = "Movies";
+"titleProfileKey" = "Profile";
+"movieDetailKey" = "Details";
+
+//Messages Erro Label Login/Register
+"emptyUserMsg" = "User must not be empty";
+"emptyPassMsg" = "Password must not be empty";
+"invalidNumberPass" = "Password must contain 8 characters";
+"invalidNumberUser" = "User must contain more than 4 characters";
+"checkPassword" = "Passwords are not compatible";
+"invalidEmail" = "Invalid email";
+"unavailableError" = "Unavailable";
+"erroRegister" = "Error when registering";
+"userorPassword" = "Incorrect username or password";
+
+// Alert
+"messageAlert" = "Registration Completed";
+"alertRegister" = "Login to access";
